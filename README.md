@@ -1,0 +1,1 @@
+# Radware-Cloud-DDoS-Event-Collector-Lambda-Function
